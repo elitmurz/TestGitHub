@@ -1,6 +1,6 @@
 
 
-print ("!Hi, MazaFuck!!")
+print ("!Hi!!, MazaFuck!!")
 
 
 
